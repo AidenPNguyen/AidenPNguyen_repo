@@ -1,0 +1,11 @@
+Disease Name,Category,Cause,Symptoms,Prevention,Treatment,Reported Cases in Bali in 2023
+Cholera,Bacterial Infection,Vibrio cholerae bacteria,"Severe diarrhea, vomiting, dehydration","Access to clean water, proper sanitation","Oral rehydration, antibiotics","1,200"
+Typhoid Fever,Bacterial Infection,Salmonella typhi bacteria,"High fever, weakness, stomach pain","Access to clean water, vaccination","Antibiotics (Ciprofloxacin, Azithromycin)","1,800"
+Dysentery,Bacterial Infection,"Shigella, Contaminated water","Diarrhea with blood/mucus, abdominal pain","Hygiene, safe drinking water","Oral rehydration, antibiotics","2,300"
+Hepatitis A,Viral Infection,Hepatitis A virus,"Jaundice, fatigue, nausea","Vaccination, hygiene practices","No specific treatment, rest",900
+Giardiasis,Parasitic Infection,Giardia parasite,"Diarrhea, gas, stomach cramps","Boil water, filtration",Antiparasitic drugs (Metronidazole),"1,500"
+Amoebiasis,Parasitic Infection,Entamoeba histolytica parasite,"Abdominal pain, diarrhea, weight loss",Good sanitation and clean water,Antiparasitic drugs (Metronidazole),"1,700"
+Cryptosporidiosis,Parasitic Infection,Cryptosporidium parasite,"Watery diarrhea, nausea, dehydration","Water filtration, hygiene","Self-limiting, oral rehydration",750
+Schistosomiasis,Parasitic Infection,Schistosoma parasite,"Rash, fever, muscle aches","Access to safe water, snail control",Antiparasitic drugs (Praziquantel),400
+Leptospirosis,Bacterial Infection,Leptospira bacteria,"Fever, muscle pain, headache",Avoiding contact with contaminated water,Antibiotics (Doxycycline),"1,200"
+E. coli Infection,Bacterial Infection,Escherichia coli bacteria,"Diarrhea, stomach cramps, vomiting","Good hygiene, safe food/water handling","Oral rehydration, antibiotics in severe cases",650

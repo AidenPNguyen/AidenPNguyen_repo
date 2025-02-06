@@ -13,16 +13,32 @@ for Clean Drinking Water Access and EcoFriendly Practices
 
 [About the data](#about-the-data)
 
-[Methodology](#methodology)
+[Our works](#our-works)
 
 - [Data preprocessing](#data-preproccessing)
 
 - [Data Visualization](#data-visualization)
 
+- [Prototyoe solution](#prototype-solution)
 
 [Project challenges](#project-challenges)
 
+[Project next steps](#project-next-steps)
+
 [Conclusion](#conclusion)
-## Visualizations
+
+## Project Overview
+
+## Project goals and objectives
+
+##Project roles and background
+
+### The story of Bali
+
+### Tourist persona
+
+## Our works
+
+### Data Visualizations
 
 ![Bali Visualization](Visualization/BALI.png)

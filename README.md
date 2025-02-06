@@ -29,6 +29,8 @@ for Clean Drinking Water Access and EcoFriendly Practices
 
 ## Project Overview
 
+![large_CSTSU9yIOOOUDYmVy5-5-ZvX2-h_47TEGOE1Itff1SA](https://github.com/user-attachments/assets/9e18fb74-03b6-403d-8d45-848398586737)
+
 ## Project goals and objectives
 
 ##Project roles and background

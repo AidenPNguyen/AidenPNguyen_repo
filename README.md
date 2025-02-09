@@ -88,7 +88,7 @@ The heavy tourist influx has led to significant challenges in maintaining clean 
 
 This is our persona information which was generated based on the real experiences of many Australian tourist coming to Bali before. As being shown in the persona board, Jack had to undergo some negative points since he struggled with using clean water for daily basic needs, all he can do is using bottled water for alternative option which can cause more and more consumption and increase plastic waste.
 
-![image](https://github.com/user-attachments/assets/3c3808bc-6474-4086-b1c1-4d0ec939d7b4)
+![Screenshot 2025-02-08 084644](https://github.com/user-attachments/assets/d08771f7-2c5a-4325-9df3-bc28f6d932c3)
 
 ## Our works
 ### Data preprocessing
@@ -123,14 +123,14 @@ We collected data on common waterborne and travel-related diseases reported in B
 
 #### *Bali and other tourist attractions*
 
-![alt text](worldmap.png) 
+![worldmap](https://github.com/user-attachments/assets/13335674-cb49-486a-99b7-b2cdad392d5d)
 
 As can be seen from this map, Bali is ranked the second worst in water pollution
 among the ten most visited city destinations in 2020 with a score of 60.23 out of 100.
 
 > This high rating indicates a seriously eroded water quality that has drawn attention from inhabitants of the area as well as tourists. The score obtained shows that water pollution in Bali is a severe problem that requires attention by everyone.
 
-![alt text](visitingcompound.png) 
+![visitingcompound](https://github.com/user-attachments/assets/8e1ed36d-f3a6-4dd0-b963-8c2e24577bfd)
 
 - Bali is the fastest-growing tourist destination, with a 10% compound annual growth rate and 6.28 million international visitors in 2022 (Bali Tourism Statistics, 2023). However, this rapid growth has intensified environmental challenges, particularly water pollution, which threatens the island’s long-term appeal as a tourist hotspot.
 
@@ -142,7 +142,7 @@ among the ten most visited city destinations in 2020 with a score of 60.23 out o
 
 #### *WHO Safety Standard for drinking water quality comparing to Bali's case*
 
-![alt text](drinking.png)
+![drinking](https://github.com/user-attachments/assets/253e94ba-fa97-4497-9039-f565cabb4ed3)
 
 The chart compares nitrate and phosphate levels in Bali's water to WHO safety limits for drinking water (WHO, 2022), revealing key health risks:
 
@@ -152,7 +152,7 @@ The chart compares nitrate and phosphate levels in Bali's water to WHO safety li
 - Phosphate Levels:
 > The WHO limit is 0.1 mg/L, but Bali’s phosphate levels have remained significantly higher, peaking at 3.92 mg/L in 2022 and slightly dropping to 3.75 mg/L in 2023. Excessive phosphate contributes to harmful algal blooms and oxygen depletion in water bodies, primarily caused by untreated sewage and agricultural waste.
 
-![alt text](bathing.png) 
+![bathing](https://github.com/user-attachments/assets/621747d1-439b-485a-bb51-7c54ca7b2cf4)
 
 The chart highlights four key water quality indicators – BOD, COD, fecal coliforms, and TSS – compared to World Health Organization (WHO) standards for safe bathing water (WHO, 2021). The trends in Bali show significant pollution concerns:
 
@@ -170,7 +170,7 @@ The chart highlights four key water quality indicators – BOD, COD, fecal colif
 
 #### *The impact from tourists*
 
-![alt text](<water quality.png>)
+![water quality](https://github.com/user-attachments/assets/5bc45629-d7d2-4152-a4d5-c0de65c1354e)
 
 1. Rising Nitrate Levels
 
@@ -217,7 +217,7 @@ In 2023, Bali ranked third among tourist destinations for sickness posts, with 7
 
 > This contamination increases the risk of waterborne diseases, particularly for those using or consuming untreated water, leading to a higher rate of illness reports in the region.
 
-![alt text](vax.png) 
+![vax](https://github.com/user-attachments/assets/adb2fa6d-534d-47fe-ac8b-7c7227571e5f)
 
 This chart highlights diseases linked to unsafe water in Bali, with high case reports in 2023
 
@@ -279,11 +279,11 @@ Rainwater usage: 2.70%
 
 These are primarily used in rural areas where other water sources are inaccessible.
 
-![alt text](water.png) 
+![water](https://github.com/user-attachments/assets/f01738b0-550a-4b5e-9d08-e3ebfff4b2ea)
 
 ### Prototype solution
 
-<video controls src="prototype-1.mp4" title="Title"></video>
+https://drive.google.com/file/d/1CMNPS8lDr5i7cygeFyRf-OM9jUnsNb5-/view?usp=sharing
 
 ## Project limitations
 
